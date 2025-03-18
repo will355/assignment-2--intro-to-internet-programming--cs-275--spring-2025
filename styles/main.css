@@ -32,7 +32,6 @@
   box-sizing: border-box;
 }
 
-/* Album Cover Styling */
 .album-cover img {
   width: 100%;
   height: auto;
@@ -64,7 +63,6 @@
   height: 40px;
 }
 
-/* Fix Image Not Found Issue */
 .album-cover img {
   max-width: 100%;
   height: auto;
